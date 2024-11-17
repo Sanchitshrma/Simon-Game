@@ -1,4 +1,4 @@
-#SIMON GAME
+**SIMON GAME**
 The Simon Game is a classic memory and pattern recognition game where players must replicate an increasingly complex sequence of colors and sounds. Created using JavaScript, HTML, and CSS, this version features a modern interface and interactive gameplay. The game includes dynamic animations, audio cues, and progressively challenging sequences to test players' memory and reflexes. It’s a great project for showcasing frontend development skills and JavaScript logic.
 
 **TECH OVERVIEW**
