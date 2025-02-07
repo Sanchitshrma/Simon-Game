@@ -21,3 +21,5 @@ The Simon Game built with JavaScript, HTML, and CSS leverages core web technolog
    - Game-over conditions are implemented, where the player loses if they click an incorrect color, with options to restart the game.
 
 This project demonstrates proficiency in DOM manipulation, event handling, and leveraging CSS for animations and visual effects, making it a solid example of full-stack web development with a focus on frontend technologies.
+
+
